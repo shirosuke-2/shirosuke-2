@@ -1,4 +1,4 @@
-# English
+\# English
 
 name == "Shirosuke-2"
 nationality == "Japanese"
@@ -9,10 +9,10 @@ What I value the most is to make conlangs unique (keep with originality) and to 
 What I desire for a programming language is to have a concise syntax and to be safe.
 
 
-# 日本語
+\# 日本語
 
-名前 == しろすけ2号
-出身地 == 日本
+名前 == "しろすけ2号"
+出身地 == "日本"
 
 人工言語をつくっています (もちろんコーディングもします)。
 panipaniの制作者です。
