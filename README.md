@@ -6,7 +6,7 @@ nationality == "Japanese"
 A conlanger (and of course a coder).
 The creator of Panipani.
 What I value the most is to make conlangs unique (keep with originality) and to make them as close as possible to natlangs.
-What I desire for a programming language is to have a concise syntax and to be safe.
+What I desire for a programming language is to have a concise syntax and to be safe. \\
 
 
 \# 日本語
