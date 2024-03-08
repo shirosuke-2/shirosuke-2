@@ -1,5 +1,5 @@
 \# English
-
+<br><br>
 name == "Shirosuke-2"
 nationality == "Japanese"
 
@@ -9,7 +9,7 @@ What I value the most is to make conlangs unique (keep with originality) and to 
 What I desire for a programming language is to have a concise syntax and to be safe. 
 <br><br><br>
 \# 日本語
-
+<br><br>
 名前 == "しろすけ2号"
 出身地 == "日本"
 
