@@ -1,4 +1,4 @@
-<link href="./README.css" rel="stylesheet"></link>
+<link href="README.css" rel="stylesheet"></link>
 
 \# English  
 
